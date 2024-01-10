@@ -96,7 +96,7 @@ fsspec @ file:///croot/fsspec_1682525977151/work
 future @ file:///work/ci_py311_2/future_1679335928186/work
 gensim @ file:///work/ci_py311/gensim_1677033391129/work
 gitdb==4.0.11
-GitPython==3.1.40
+GitPython==3.1.41
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
 greenlet @ file:///work/ci_py311/greenlet_1676825247229/work
