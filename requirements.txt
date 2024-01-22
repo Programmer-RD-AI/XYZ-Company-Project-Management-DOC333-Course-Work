@@ -229,7 +229,7 @@ patsy==0.5.3
 pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==10.0.1
+Pillow==10.2.0
 pkginfo @ file:///croot/pkginfo_1679431160147/work
 platformdirs @ file:///work/ci_py311/platformdirs_1676823055788/work
 plotly @ file:///work/ci_py311/plotly_1676841625489/work
